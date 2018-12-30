@@ -17,6 +17,6 @@ Projemizdeki amacımız belli bir işlem sayısından sonra çek bozdurmayı bı
 - Olası Risk Skorları Üzerinden Belirlenen Cut-Off ile Etiketleme Yaklaşımı
 Bu 3 bakış açısı üzerinden kişiyi Churn edecek veya etmeyecek şeklinde tahminledik.
 
-Proje Yazısı : 
+Proje Yazısı : https://www.linkedin.com/pulse/pythonda-majority-vote-topluluk-oylaması-ile-müşteri-gündoğmuş
 
 Veriseti : https://drive.google.com/file/d/1YTRrcNuiU3rPtXviRlJagO-6h8XsrL6u/view?usp=sharing
